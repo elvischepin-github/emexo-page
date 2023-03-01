@@ -1,0 +1,8 @@
+#home {
+    background: $home-color;
+
+    .img-1 {
+        background: $home-img;
+        @include img-style;
+    }
+}
